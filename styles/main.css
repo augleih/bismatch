@@ -1,0 +1,16 @@
+
+body {
+    font-family: 'Jeju Myeongjo', serif;
+    /* min-width: 558px;
+    min-height: 500px; */
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#listDiv {
+    display: flex;
+    
+}
